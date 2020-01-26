@@ -5,6 +5,7 @@
 
 Welcome to readTheDocs playground's documentation!
 ==================================================
+Latest version test
 
 Content
 ^^^^^^^
