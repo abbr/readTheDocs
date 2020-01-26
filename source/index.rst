@@ -6,6 +6,9 @@
 Welcome to readTheDocs playground's documentation!
 ==================================================
 
+Content
+^^^^^^^
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
