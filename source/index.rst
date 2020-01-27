@@ -15,6 +15,7 @@ Content
    :caption: Contents:
    
    test
+   toc1
 
 Indices and tables
 ==================
